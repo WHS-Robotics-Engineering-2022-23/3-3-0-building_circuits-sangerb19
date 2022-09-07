@@ -15,3 +15,5 @@ w 224 256 128 304 0
 w 272 256 128 304 0
 
 The reason why this circut didn't work is because the resistors and LEDs weren't connected to any source of power. Therefore you had to connect them with wires to the 5v power source in order to put power through the circuit. Than you had to take wires and connect them to ground to finisht the circuit. 
+
+![IMG_20220907_093155](https://user-images.githubusercontent.com/90726645/188918853-f1907e82-157b-49dc-867c-651f0c31cfc9.jpg)
